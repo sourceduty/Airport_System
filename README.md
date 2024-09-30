@@ -9,6 +9,32 @@
 The system is designed to assist with technical and detail-oriented tasks such as developing air traffic management plans, optimizing terminal layouts, and improving ground handling processes. It can suggest simulation parameters, analyze data, and generate strategies for different aspects of airport operations. By using a data-driven approach, this GPT helps stakeholders make informed decisions to improve overall efficiency, safety, and passenger experience at airports.
 
 #
+### Popular International Airports
+
+| Airport Name                  | Location          | Airport Code |
+|-------------------------------|-------------------|--------------|
+| Hartsfield-Jackson Atlanta     | Atlanta, USA      | ATL          |
+| Beijing Capital International  | Beijing, China    | PEK          |
+| Los Angeles International      | Los Angeles, USA  | LAX          |
+| Dubai International            | Dubai, UAE        | DXB          |
+| Tokyo Haneda                   | Tokyo, Japan      | HND          |
+| O'Hare International           | Chicago, USA      | ORD          |
+| London Heathrow                | London, UK        | LHR          |
+| Hong Kong International        | Hong Kong, China  | HKG          |
+| Shanghai Pudong International  | Shanghai, China   | PVG          |
+| Charles de Gaulle              | Paris, France     | CDG          |
+| Amsterdam Schiphol             | Amsterdam, Netherlands | AMS      |
+| Frankfurt International        | Frankfurt, Germany | FRA         |
+| Incheon International          | Seoul, South Korea | ICN         |
+| Singapore Changi               | Singapore         | SIN          |
+| Madrid Barajas                 | Madrid, Spain     | MAD          |
+| Sydney Kingsford Smith         | Sydney, Australia | SYD          |
+| San Francisco International    | San Francisco, USA | SFO         |
+| Toronto Pearson International  | Toronto, Canada   | YYZ          |
+| Suvarnabhumi                   | Bangkok, Thailand | BKK          |
+| Munich International           | Munich, Germany   | MUC          |
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
