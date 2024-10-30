@@ -1,4 +1,4 @@
-![Airport System](https://github.com/user-attachments/assets/f02d0506-007c-4b77-aeae-a09a37fc0b1a)
+![Bird](https://github.com/user-attachments/assets/e40bd006-ac74-4347-92aa-24cdc834574d)
 
 > Plan, develop and simulate airport systems and programs.
 
@@ -10,6 +10,8 @@ The system is designed to assist with technical and detail-oriented tasks such a
 
 #
 ### Popular International Airports
+
+![Airport System](https://github.com/user-attachments/assets/f02d0506-007c-4b77-aeae-a09a37fc0b1a)
 
 | Airport Name                  | Location          | Airport Code |
 |-------------------------------|-------------------|--------------|
